@@ -1,5 +1,5 @@
 PROJECT=Final Git Project
 MODE=training
 TAX_RATE=200
-STATUS=stable
+STATUS=WIP
 FEATURE_A=enabled
